@@ -1,0 +1,3 @@
+2024-11-03 19:45:47,498 - INFO - Division successful: 10 / 2 = 5.0
+2024-11-03 19:45:47,498 - ERROR - Attempted to divide by zero.
+2024-11-03 19:45:47,498 - ERROR - Invalid types provided for division.
